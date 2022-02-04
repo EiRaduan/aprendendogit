@@ -1,1 +1,2 @@
 segundo arquivo para testar o git
+agora to aumentando o texto para atulizar o git
