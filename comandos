@@ -1,0 +1,12 @@
+- cria pasta
+- git init
+- git status
+- git add "nome do arquivo" ou .
+- git commit -m "mensagem"
+- git config --global user.email "e-mail"
+- git config --global user.name "Nome"
+- git push
+- git remote add <name> <url>
+- git push --set-upstream origin master
+- git reflog
+- git reset --hard <numero>
